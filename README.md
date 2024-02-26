@@ -1,3 +1,4 @@
+
 <p align="center">
     <img alt="snarkOS" width="1412" src="https://cdn.aleo.org/snarkos/banner.png">
 </p>
